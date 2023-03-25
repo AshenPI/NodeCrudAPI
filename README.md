@@ -1,2 +1,2 @@
 # nodeAPI
-A simple RESTFul API using node js 
+A simple crud RESTFul API using node js 
